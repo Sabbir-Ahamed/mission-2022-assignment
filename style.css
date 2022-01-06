@@ -1,0 +1,221 @@
+body {
+    margin: 0;
+}
+
+.flex-style {
+    display: flex;
+}
+
+.m-left {
+    margin-left: 200px;
+}
+
+.m-right {
+    margin-right: 200px;
+}
+
+.banner {
+    background-color: #fff;
+}
+
+.banner-heading {
+    margin-top: 150px;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.banner .half-width img {
+    width: 70%;
+}
+
+.border-left {
+    height: 160px;
+    width: 4px;
+    background-color: #48cae4;
+    margin-top: 35px;
+    border-radius: 5px;
+    margin-right: 15px;
+}
+
+.main-heading {
+    font-family: 'Lobster', cursive;
+    font-size: 72px;
+    color: #222;
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+
+.green-color {
+    color: #80ed99;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 400;
+    color: #333;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+.button {
+    font-family: 'Open Sans',
+    sans-serif;
+    padding: 15px 30px;
+    background-color: #48cae4;
+    color: #fff;
+    font-size: 24px;
+    border-radius: 5px;
+}
+
+.another-heading {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+    text-align: center;
+    color: #222;
+}
+
+.another-heading span {
+    color: #80ed99;
+}
+
+.short-heading {
+    font-family: 'Open Sans',
+    sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    color: #222;
+    margin: 0;
+}
+
+.mission-card {
+    background-color: #e2eafc;
+}
+
+.mission-card img {
+    width: 45%;
+}
+
+.vission-card {
+    background-color: #d8f3dc;
+}
+
+.vission-card img {
+    width: 45%;
+}
+
+.goal-card {
+    background-color: #fff1e6;
+}
+
+.goal-card img {
+    width: 45%;
+}
+
+.card {
+    width: 100%;
+    margin: 0 15px;
+    padding: 25px;
+    border-radius: 20px;
+}
+
+.card p {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.mission {
+    margin-bottom: 150px;
+}
+
+.img-box {
+    width: 40%;
+}
+
+.img-box img {
+    width: 85%;
+}
+
+.common-content {
+    width: 60%;
+    padding-right: 50px;
+}
+
+.medium-heading {
+    font-family: 'Open Sans',
+    sans-serif;
+    font-size: 42px;
+    font-weight: 900;
+    color: #333;
+    margin-bottom: 0px;
+}
+
+.common-content p {
+    margin-top: 20px;
+}
+
+.limit-community {
+    padding-bottom: 150px;
+}
+
+.medium-heading span {
+    color: #80ed99;
+}
+
+.know-me {
+    padding-bottom: 100px;
+}
+
+.know-me-text {
+    width: 60%;
+    margin-right: 30px;
+}
+
+.know-me-text p {
+    font-size: 20px;
+}
+
+.about {
+    width: 40%;
+    margin-left: 30px;
+    padding: 30px;
+}
+
+.about p {
+    font-size: 20px;
+    margin: 30px 0;
+    border-bottom: 1px solid #ddd;
+}
+
+.about p span {
+    font-weight: 900;
+}
+
+footer {
+    background-color: #160f29;
+    padding: 50px 0;
+}
+
+footer .main-heading {
+    color: #fff;
+    font-size: 48px;
+    text-align: center;
+}
+
+footer p {
+    color: #fff;
+    margin: 0;
+    font-size: 18px;
+    text-align: center;
+}
+
+
